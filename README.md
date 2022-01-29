@@ -1,1 +1,3 @@
-"# gestion-des-ventes-des-articles" 
+# gestion-des-ventes-des-articles 
+
+Un projet fait avec tkinter python permettant de gerer des ventes des articles...
